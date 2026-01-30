@@ -46,10 +46,9 @@ To run this project locally for development:
 
 ## 👥 The Team
 * **Architect:** @JayR1031
-* **Agent Engineer:** @Gustavo-Rubio
-* **Tools & Integrations:** @munachimso-victor
+* **Agent Engineer & Frontend:** @Gustavo-Rubio
 * **AI & Prompts:** @shivansh052k
-* **Frontend & Data:** @sadaa.kakarla
+* **Tools, Integration & Data:** @Sadakakarla
 
 ---
 *Built with ❤️ for the IBM Dev Day Hackathon 2026.*

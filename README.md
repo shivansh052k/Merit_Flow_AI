@@ -50,5 +50,8 @@ To run this project locally for development:
 * **AI & Prompts:** @shivansh052k
 * **Tools, Integration & Data:** @Sadakakarla
 
+## Demo Link:
+https://youtu.be/86QonsRbEw4
+
 ---
 *Built with ❤️ for the IBM Dev Day Hackathon 2026.*
